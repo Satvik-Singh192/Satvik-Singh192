@@ -32,25 +32,24 @@
 </p>
 
 ---
-
 ### 📈 GitHub Stats
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=satviksingh192&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=satviksingh192&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=**Satvik-Singh192**&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=**Satvik-Singh192**&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 🚀 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satviksingh192&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=**Satvik-Singh192**&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/satviksingh192" target="_blank">
+  <a href="https://www.linkedin.com/in/satvik-singh-b97977313/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:satviksingh192@gmail.com">
@@ -62,11 +61,11 @@
 
 ### 🏆 Achievements & Fun
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=satviksingh192&theme=tokyonight&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=**Satvik-Singh192**&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/satviksingh192/satviksingh192/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/**Satvik-Singh192**/**Satvik-Singh192**/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
 ---

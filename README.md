@@ -9,13 +9,18 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 2nd-year CSE student at *IIIT Bhagalpur*
-- 🤖 Passionate about *AI, ML, and Reinforcement Learning*
-- 🧠 Experienced in *Flask* and *FastAPI* for backend & API development
-- ⚡ Currently learning *Proximal Policy Optimization (PPO)*
-- 🚀 Love integrating ML models into real-world apps
+<div align="center">
+  <h2>✦ The Developer ✦</h2>
+  <p><i>2nd year CSE student at IIIT Bhagalpur, building projects in deep learning and systems.</i></p>
+</div>
 
+<br>
+
+> **⟡ Current Focus & Objectives:**
+> 
+> ◈ **Deep Learning:** Learning the inner workings of transformers and LLMs.  
+> ◈ **System Architecture:** Forging the core logic for *Aether*, a custom C++ real-time 3D rigid body physics engine.  
+> ◈ **Backend Engineering:** Using FastAPI to turn models into usable services.
 ---
 
 ### 🏅 Hacktoberfest 2025 Achievement
@@ -25,36 +30,36 @@
 
 ---
 
-### 🧰 Tech Stack
+<br>
+
+<div align="center">
+  <h2>✦ The Techstack ✦</h2>
+</div>
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,flask,fastapi,git,github,linux,vscode,cpp,mysql,pytorch,react,html,css,pydantic,jupyter,pandas,matplotlib,pickle,gymnasium&perline=12" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,linux,git,github,vscode&perline=6" alt="Core Skills" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,fastapi,flask,mysql,postgres,neovim&perline=8" alt="ML and Backend" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+<br>
+
+<div align="center">
+  <h2>✦ Quest Stats ✦</h2>
+</div>
+
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Satvik-Singh192&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Satvik-Singh192&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🚀 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satvik-Singh192&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🏆 Achievements & Fun
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Satvik-Singh192&theme=tokyonight&no-frame=true&margin-w=15" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Satvik-Singh192&show_icons=true&title_color=4FFFFF&icon_color=4FFFFF&text_color=c9c1c1&bg_color=00000000&hide_border=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satvik-Singh192&layout=compact&title_color=4FFFFF&text_color=c9c1c1&bg_color=00000000&hide_border=true" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Satvik-Singh192/Satvik-Singh192/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satvik-Singh192&bg_color=00000000&color=4FFFFF&line=4FFFFF&point=FFFFFF&hide_border=true" width="800" alt="Activity Graph" />
 </p>
+
+<br>
 
 ---
 

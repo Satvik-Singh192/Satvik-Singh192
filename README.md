@@ -56,9 +56,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satvik-Singh192&bg_color=00000000&color=4FFFFF&line=4FFFFF&point=FFFFFF&hide_border=true" width="800" alt="Activity Graph" />
+  <img src="https://raw.githubusercontent.com/Satvik-Singh192/Satvik-Singh192/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="800"/>
 </p>
-
 <br>
 
 ---

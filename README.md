@@ -1,11 +1,10 @@
 <!-- Animated Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hey+I'm+Satvik+Singh!;AI+%26+ML+Enthusiast;Backend+Developer+%26+FastAPI;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=4FFFFF&center=true&vCenter=true&width=850&lines=The+Quest+Log%3A+Satvik+Singh;Quest%3A+Forging+robust+FastAPI+systems;Art%3A+Teaching+Machines+with+AI%2FML;Alchemy%3A+Forging+Aether+Physics+Core;Always+leveling+up." alt="Typing SVG" />
 </h1>
-
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" alt="banner" width="100%"/>
+  <img src="https://64.media.tumblr.com/7e646d701b09619cbd7847b65ea580f0/f6c58cb88f740547-93/s1280x1920/b9bac3ad0d529e9da92e6efab19dd649e1b5137d.gifv" alt="Aesthetic Banner" height="70%"/>
 </p>
 
 ---

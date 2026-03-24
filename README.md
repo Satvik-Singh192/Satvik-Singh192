@@ -23,10 +23,17 @@
 > ◈ **Backend Engineering:** Using FastAPI to turn models into usable services.
 ---
 
-### 🏅 Hacktoberfest 2025 Achievement
-[![Holopin Badge](https://holopin.me/satviksingh192)](https://holopin.io/@satviksingh192)
+<br>
 
-> I am a super contributor in Hacktober 2025.
+<div align="center">
+  <h2>✦ Guild Achievements ✦</h2>
+  <a href="https://holopin.io/@satviksingh192" target="_blank">
+    <img src="https://holopin.me/satviksingh192" alt="Hacktoberfest 2025 Holopin Badge" />
+  </a>
+  <p><i>Recognized Super Contributor • Hacktoberfest 2025</i></p>
+</div>
+
+<br>
 
 ---
 
@@ -61,17 +68,17 @@
 <br>
 
 ---
-
-### 🌐 Connect With Me
-<p align="center">
+<div align="center">
+  <h2>✦ Establish Connection ✦</h2>
+  <br>
   <a href="https://www.linkedin.com/in/satvik-singh-b97977313/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:satviksingh192@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
-
----
-
-⭐ If you like my work, consider dropping a ⭐ on my repositories!
+  
+  <br><br><br>
+  
+  <p><i>If my projects or the Aether engine caught your eye, consider leaving a ⭐ on the repositories!</i></p>
+</div>
